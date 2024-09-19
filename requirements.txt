@@ -1,0 +1,10 @@
+cmake
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+scipy
+joblib
+jupyter
+keras
