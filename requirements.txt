@@ -10,3 +10,5 @@ joblib
 jupyter
 keras
 graphviz
+pymc
+arviz
