@@ -12,3 +12,5 @@ keras
 graphviz
 pymc
 arviz
+hmmlearn
+nltk
